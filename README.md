@@ -36,5 +36,23 @@ Recursive Step: This is where the function calls itself, typically with a modifi
 6. Display summation of numbers till n.
 
 7. End.
+### String Reversal 
+1. Start.
+
+2. Input a string n.
+
+3. Define function reves(n):
+
+4. Initialize an empty string st1.
+
+5. Traverse n from last character to first.
+
+6. Append each character to st1. Return st1.
+
+7. Call reves(n) from main() and store result.
+
+8. Display the reversed string.
+
+9. End.
 ## Conclusion 
 We learnt recursion through 2 programs- Factorial of a number and summation of number . 
